@@ -17,3 +17,7 @@ A collection of simple, visually appealing animations made using HTML, CSS, and 
 Got a cool animation? Fork the repo, add your files in a new folder, and open a pull request!
 
 Would you like me to include a sample animation to kickstart the project?
+
+For projects preview, visit these links : 
+1. Circle animation : https://nitesh-in-focus.github.io/Simple-Animations/circle_animation.html
+2. Hover animation : https://nitesh-in-focus.github.io/Simple-Animations/hover.html
